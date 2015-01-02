@@ -1,6 +1,9 @@
 claw [![GoDoc](https://godoc.org/github.com/squiidz/claw?status.png)](http://godoc.org/github.com/squiidz/claw) [![Build Status](https://travis-ci.org/go-zoo/claw.svg?branch=master)](https://travis-ci.org/squiidz/claw)
 =======
 
+## NOTICE
+The Original repo have move to https://github.com/go-zoo/claw
+
 ## What is claw ?
 
 Claw is a Middleware chaining module, compatible with
@@ -68,4 +71,4 @@ MIT
 
 ## Links
 
-Lightning Fast HTTP Mux : [Bone](https://github.com/squiidz/bone)
+Lightning Fast HTTP Mux : [Bone](https://github.com/go-zoo/bone)
